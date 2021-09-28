@@ -1,0 +1,9 @@
+    /Users/hania/Desktop/test/ <DIR> [Modified at:12-05-2021 19:21:35 mode: rwxr-xr-x 40755]
+          .DS_Store [size:6148 Modified at:12-05-2021 19:22:01 mode: rw-r--r-- 100644]
+      a <DIR> [Modified at:12-05-2021 19:22:16 mode: rwxr-xr-x 40755]
+              .DS_Store [size:6148 Modified at:12-05-2021 19:22:21 mode: rw-r--r-- 100644]
+        b <DIR> [Modified at:12-05-2021 19:22:21 mode: rwxr-xr-x 40755]
+                  .DS_Store [size:6148 Modified at:12-05-2021 20:33:32 mode: rw-r--r-- 100644]
+          c <DIR> [Modified at:12-05-2021 20:33:36 mode: rwxr-xr-x 40755]
+                      d <DIR> [Modified at:12-05-2021 20:33:34 mode: rwxr-xr-x 40755]
+            

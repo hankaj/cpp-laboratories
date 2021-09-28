@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hania/Desktop/school/semestr2/pp2/lab8/main.cpp
+dirent.h
+-
+stdio.h
+-
+iostream
+-
+cstring
+-
+map
+-
+vector
+-
+sys/stat.h
+-
+sstream
+-
+fstream
+-
+
